@@ -57,6 +57,25 @@ body {
   background-size: cover;
 }
 
+.nyc{
+  background: url(../images/nyc.jpg) no-repeat center center fixed; 
+}
+
+.sf{
+  background: url(../images/sf.jpg) no-repeat center center fixed; 
+}
+
+.la{
+  background: url(../images/la.jpg) no-repeat center center fixed; 
+}
+
+austin{
+  background: url(../images/austin.jpg) no-repeat center center fixed; 
+}
+
+.sydney{
+  background: url(../images/sydney.jpg) no-repeat center center fixed; 
+}
 
 /******************************************
 /* LAYOUT
